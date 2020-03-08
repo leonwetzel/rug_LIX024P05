@@ -4,7 +4,7 @@ This repository contains code for Milestone 5 of the course Introduction to Rese
 The software in this repository can be used to determine how frequent the Dutch article '*de*' occurs on the Dutch Wikipedia page of the University of Groningen (which can be found [here](https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen)). 
 
 ## How to use
-1. Download 'ample.sh' or clone the entire repository.
+1. Download `sample.sh` or clone the entire repository.
 2. Open a Command Line Interface (CLI) or terminal environment.
 3. Head to the directory in which `sample.sh` is located.
-4. Run the script by performing 'sh sample.sh'.
+4. Run the script by performing `sh sample.sh`.
